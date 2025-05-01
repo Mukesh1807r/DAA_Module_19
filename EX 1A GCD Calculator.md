@@ -1,5 +1,5 @@
 # EX 1A GCD Calculator
-## DATE:
+## DATE:18:03:2025
 
 ## Aim
 To write a Python program to find the Greatest Common Divisor (GCD) of two numbers using the Euclidean algorithm.
